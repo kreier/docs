@@ -10,7 +10,7 @@ The repository for this project is https://github.com/kreier/timeline and work i
 |--------------------------------------------|:-------:|:------------:|
 | [English](timeline_en.pdf)                 |   4.4   |  2024-03-23  |
 | [German (Deutsch)](timeline_de.pdf)        |   4.4   |  2024-03-23  |
-| [Vietnamese (Tiếng Việt)](timeline_vn.pdf) |   4.3   |              |
+| [Vietnamese (Tiếng Việt)](timeline_vi.pdf) |   4.3   |              |
 | [French (Français)](timeline_fr.pdf)       |   4.1   |              |
 | [Japanese (日本語)](timeline_jp.pdf)        |   4.1   |              |
 | [Iloko (Ilocano)](timeline_ilo.pdf)         |   4.1   |              |

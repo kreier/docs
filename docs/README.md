@@ -2,15 +2,15 @@
 
 The idea is to have a short download link (QR codes) for binaries to download. Work is still done in the respective repositories.
 
-## Timeline
+## Timeline - deprecated, now at https://timeline24.github.io/
 
-The repository for this project is https://github.com/kreier/timeline and work is done there. Latest binaries here are
+Links below are already updated.
 
 | language                                   | version | last updated |
 |--------------------------------------------|:-------:|:------------:|
 | [English](timeline_en.pdf)                 |   4.4   |  2024-03-23  |
 | [German (Deutsch)](timeline_de.pdf)        |   4.4   |  2024-03-23  |
-| [Vietnamese (Tiếng Việt)](timeline_vi.pdf) |   4.3   |              |
+| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) |   4.5   |  2024-03-27  |
 | [French (Français)](timeline_fr.pdf)       |   4.1   |              |
 | [Japanese (日本語)](timeline_jp.pdf)        |   4.1   |              |
 | [Iloko (Ilocano)](timeline_ilo.pdf)         |   4.1   |              |
@@ -23,6 +23,8 @@ The repository for this project is https://github.com/kreier/timeline and work i
 | [Arabic (العربية)](timeline_ar.pdf)            |   3.6   |              |
 | [Igbo (Ásụ̀sụ́ Ìgbò)](timeline_igbo.pdf)      |   3.6   |              |
 | [Thai (ภาษาไทย)](timeline_thai.pdf)         |   3.6   |              |
+
+The repository for this project is https://github.com/kreier/timeline and work is done there. Latest binaries here are
 
 ![timeline 4.3](https://kreier.github.io/timeline/timeline20240309_4.2.png)
 
